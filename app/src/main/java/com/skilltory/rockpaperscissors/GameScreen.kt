@@ -43,7 +43,7 @@ import kotlin.math.roundToInt
 const val DISTANCE = 37
 const val ITEM_SIZE = 40
 const val DELAY = 50L
-const val ITEM_COUNT = 3
+const val ITEM_COUNT = 5
 
 
 @Composable
